@@ -1,0 +1,2 @@
+responsive: small < 1312 < big
+red: #ff0000
